@@ -5,8 +5,6 @@
 </div>
 
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/code36u4r60/pam-pwm-and-ppm-modulation?style=flat">
-
   <a href="https://rocketseat.com.br">
     <img alt="Made by Eduardo Queirós" src="https://img.shields.io/badge/made%20by-Eduardo%20Queirós-red">
   </a>
